@@ -19,3 +19,23 @@ p {
     margin-left: 15px;
     background-color: lightblue;
 }
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navigation a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.navigation a:hover {
+    color:aliceblue;
+}
